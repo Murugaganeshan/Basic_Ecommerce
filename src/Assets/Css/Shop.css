@@ -1,0 +1,46 @@
+.btn-1{
+    background-color: silver;
+    border: none;
+    padding: 15px 20px;
+    font-weight: bold;
+    border-radius: 10px;
+    color: grey;
+}
+.btn-1:hover{
+    background-color: black;
+    color: white;
+}
+.content{
+    display: none;
+}
+.show_content{
+ display: block;
+}
+.btn-shop{
+    background-color:black;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 10px;
+    border: 1px solid;
+    font-size: 15px;
+}
+.card-shop{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border: none;
+   
+}
+.load{
+    padding: 10px;
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+.load:hover{
+   border: 1px solid red;
+    background-color: grey;
+    color: red;
+    
+}

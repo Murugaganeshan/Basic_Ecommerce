@@ -1,0 +1,29 @@
+.elevate{
+  font-weight: bold;
+    font-family: "DM Serif Display", serif;
+    font-size: 3vw;
+}
+.Discover{
+    margin-left: 10px;
+    color:silver;
+}
+.primary {
+    background-color:black;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 10px;
+    border: 1px solid;
+    width: 150px;
+
+}
+.Discover{
+    font-size: 1vw;
+}
+.img-bg {
+    /* border-radius: 20px; */
+}
+.img-bg img{
+    /* border-radius: 20px; */
+}

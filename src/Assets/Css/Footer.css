@@ -1,0 +1,40 @@
+section{
+    background-color: #24262b;
+    padding: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+.foot{
+   padding: 30px;
+   
+}
+.foot h4{
+    text-align: start;
+    margin-left: 20px;
+    color: white;
+   
+}
+.foot ul{
+    text-align: start;
+    list-style:none;
+}
+.foot ul li{
+    color: #bbbbbb;
+    text-align: start;
+}
+.foot p{
+    color: #bbbbbb;
+}
+.social-links{
+    height: 40px;
+    width: 40px;
+    background-color: rgba(225, 255, 255, 0.2);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 20px;
+}
+.input{
+    background-color: red;
+    border: none;
+}
